@@ -1,4 +1,4 @@
-# MoodSpend (花钱了) Technical Support
+# MoodSpend Technical Support
 
 > English | [简体中文](technical-support.zh-Hans.md)
 
