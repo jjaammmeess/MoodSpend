@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>MoodSpend</strong> · 花钱了<br/>
+  <strong>MoodSpend</strong> <br/>
   <sub>Privacy Policy</sub>
 </p>
 
@@ -14,7 +14,7 @@
 ---
 
 > **Effective date:** May 21, 2026  
-> **Applies to:** MoodSpend / 花钱了 iOS app (“the App”)  
+> **Applies to:** MoodSpend / iOS app (“the App”)  
 > **Contact:** [octboyu@gmail.com](mailto:octboyu@gmail.com)
 
 This Privacy Policy explains how we process, store, and protect your information **on your device**. **We do not operate our own servers to collect or store your expense entries, mood data, or attachments.** By using the App, you acknowledge this Policy.
@@ -39,7 +39,7 @@ This Privacy Policy explains how we process, store, and protect your information
 
 ## Who we are
 
-**MoodSpend** (花钱了) is provided by an independent developer.
+**MoodSpend** (花钱了) is provided by an developer.
 
 - **We do not operate our own servers** to collect, store, or analyze your expense or mood entries  
 - Data **stays on your iPhone by default**; only when you turn on **iCloud sync** does **Apple** sync it across devices signed into the **same Apple ID**  
